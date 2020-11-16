@@ -1,0 +1,17 @@
+{
+	"pages": [
+		"pages/frame/frame",
+		"pages/frame_group/frame_group",
+		"pages/image/image",
+		"pages/list_view/list_view",
+		"pages/list_view_cell/list_view_cell"
+	],
+	"entryPagePath": "",
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "demo",
+		"navigationBarTextStyle": "black"
+	},
+	"sitemapLocation": "sitemap.json"
+}

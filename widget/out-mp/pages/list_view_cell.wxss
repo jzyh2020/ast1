@@ -1,0 +1,29 @@
+
+.main {
+    width: 100%;
+    height: 100%;
+}
+input {
+    margin: 8px;
+}
+cell {
+    padding: 8px;
+    height: 60px;
+    border-bottom: 0.5px solid #ddd;
+    background-color: #fff;
+}
+cell:active {
+    background-color: #ddd;
+}
+.title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+}
+.subtitle {
+    color: #333;
+}
+.footer {
+    justify-content: center;
+    align-items: center;
+}
