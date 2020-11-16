@@ -1,0 +1,24 @@
+<template name='tpl'>
+    <view class="page">
+        <image placeholder="../image/placeholder.jpg" src="https://gw.alicdn.com/bao/uploaded/i1/1794536469/TB1CZMUfY1YBuNjSszeXXablFXa_!!0-item_pic.jpg" class="img"></image>
+    </view>
+</template>
+<script>
+export default {
+    name: "tpl",
+    apiready() {},
+    data() {
+        return {};
+    },
+    methods: {}
+};
+</script>
+<style>
+.page {
+    height: 100%;
+}
+.img {
+    width: 100px;
+    height: 100px;
+}
+</style>

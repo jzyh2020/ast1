@@ -1,0 +1,23 @@
+<template name='tpl'>
+    <view class="page">
+        <frame class="frame" name="test" url="https://m.baidu.com"></frame>
+    </view>
+</template>
+<script>
+export default {
+    name: "tpl",
+    apiready() {},
+    data() {
+        return {};
+    },
+    methods: {}
+};
+</script>
+<style>
+.page {
+    height: 100%;
+}
+.frame {
+    height: 100%;
+}
+</style>
